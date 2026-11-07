@@ -8,7 +8,7 @@
 
 ## 文件结构
 
-- `originhgss-save-editor.html`：可交付的单文件应用，运行所需数据已内嵌。
+- `originhgss-save-editor.html`：可运行的单文件应用，运行所需数据已内嵌。
 - `data/originhgss-4.03-data.js`：4.03 数据源备份，供后续维护和重新生成内嵌数据使用。
 - `docs/feature-gap-report.md`：功能差异与后续规划记录。
 
