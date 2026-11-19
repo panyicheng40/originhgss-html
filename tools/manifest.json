@@ -1,0 +1,27 @@
+[
+  {
+    "path": "originhgss-save-editor.html",
+    "gitBlobSha1": "110886f29842278861e6f95f6c32438024199271",
+    "bytes": 1395352
+  },
+  {
+    "path": "data/originhgss-4.03-data.js",
+    "gitBlobSha1": "be0fdadc933502d8a1e4e45ba8e4c8c8562b3b32",
+    "bytes": 1280450
+  },
+  {
+    "path": "README.md",
+    "gitBlobSha1": "368461675fa836657a23d6a76130498340c53c21",
+    "bytes": 3093
+  },
+  {
+    "path": "docs/feature-gap-report.md",
+    "gitBlobSha1": "17149f21709f1ef87643f0d5a224e7187e49ac20",
+    "bytes": 8597
+  },
+  {
+    "path": ".gitignore",
+    "gitBlobSha1": "721b3187e7d9ecb627c323304da74d4254204c7a",
+    "bytes": 38
+  }
+]
